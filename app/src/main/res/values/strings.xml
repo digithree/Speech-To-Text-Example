@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Speech To Text Example</string>
+
+    <string name="capture_speech_instructions">Press the Capture Speech button to start Text to Speech. The captured speech as text will be displayed here.</string>
+    <string name="capture_speech_button_text">Capture Speech</string>
+</resources>
